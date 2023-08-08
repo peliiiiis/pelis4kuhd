@@ -31,7 +31,7 @@ color: #ffffff;
 }
 
 .header{
-    background-image: url(Imagenes/cover.webp);
+    background-image: url(Imagenes/cover.jpg);
     background-position: top center;
     background-repeat: none;
     background-size: cover;
@@ -68,7 +68,7 @@ color: #ffffff;
 }
 
 .menu .navbar ul li a:hover{
-    color: #ddb636;
+    color: #52dd36;
     transition: ease all 0.50s;
 }
 
@@ -95,7 +95,7 @@ color: #ffffff;
 }
 
 .header-2 h1{
-    color: #00000072;
+    color: #ffffff;
     font-size: 50px;
     line-height: 50px;
 }
